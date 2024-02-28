@@ -5,6 +5,7 @@
 #    conda deactivate (preparation for installation)
 #    conda env create -f environment.yml
 #    conda env update --file environment.yml --prune
+#
 #    conda env export --name gym-tracker > environment.yml
 #    conda env remove --name gym-tracker
 #    conda env list
