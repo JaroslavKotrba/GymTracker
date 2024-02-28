@@ -4,6 +4,7 @@ from glob import glob
 # --------------------------------------------------------------
 # Read single CSV file
 # --------------------------------------------------------------
+# IntelliCode -> filling when writing
 # Path Intellisense (extension -> to create path for loading files)
 # Black Formatter (extension -> for nice python formatting) 1) pip install black 2) Settings -> format on save (check) 3) install extension
 single_file_acc = pd.read_csv(
